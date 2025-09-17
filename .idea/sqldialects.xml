@@ -3,6 +3,7 @@
   <component name="SqlDialectMappings">
     <file url="file://$USER_HOME$/Downloads/csd_all_import.sql" dialect="PostgreSQL" />
     <file url="file://$USER_HOME$/Downloads/csd_return_type_import.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/repair_all_import.sql" dialect="PostgreSQL" />
     <file url="PROJECT" dialect="PostgreSQL" />
   </component>
 </project>
